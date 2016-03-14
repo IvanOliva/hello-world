@@ -1,3 +1,3 @@
 # hello-world
 otrooo repo
-estoy aprendiendo a utilizar github
+agrego una linea y borro otra
